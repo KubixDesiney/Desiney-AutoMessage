@@ -1,0 +1,6 @@
+name: DesineyAutoMessage
+author: KubixDesiney
+version: 1.8
+main: euw.desiney.main
+commands:
+    dautomessage:
